@@ -1,0 +1,9 @@
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\bin\Debug\See-Sharp ToolBox.exe.config
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\bin\Debug\See-Sharp ToolBox.exe
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\bin\Debug\See-Sharp ToolBox.pdb
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\bin\Debug\SpeedTest.dll
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\bin\Debug\SpeedTest.xml
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\obj\Debug\See-Sharp ToolBox.csproj.CopyComplete
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\obj\Debug\See-Sharp ToolBox.exe
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\obj\Debug\See-Sharp ToolBox.pdb
+C:\Users\Quintus\source\repos\See-Sharp ToolBox\See-Sharp ToolBox\obj\Debug\See-Sharp ToolBox.csprojAssemblyReference.cache
